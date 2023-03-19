@@ -4,7 +4,7 @@
 ```javascript
 const @ayebishmo = "
   I am: "Data scientist" || "data analyst",
-  code: [python, R, Talbeau, HTML/CSS, Mysql, UI, Bootstrap],
+  code: [python, R, Tableau, HTML/CSS, Mysql, UI, Bootstrap],
   I like: [God, code, technology, life, movies],
   challenge: "I am learning how to code almost everyday",
   funFacts: ['Available for hire', Always availble to any contribution']
