@@ -3,9 +3,9 @@
 
 ```javascript
 const @ayebishmo = "
-  I am: "Data scientist" || "data analyst",
+  I am: "Data scientist" || "data analyst" $$ "Python developer",
   code: [python, R, Tableau, HTML/CSS, Mysql, UI, Bootstrap],
-  I like: [God, code, technology, life, movies],
+  I like: [God, code, technology, Artificial intelligence, Machine language],
   challenge: "I am learning how to code almost everyday",
   funFacts: ['Available for hire', Always availble to any contribution']
 "
