@@ -11,7 +11,7 @@ AI.fit(analyst, scientist)
 data = numpy.pada(matplotlib)
 test = skills(python, tensorflow)
 print(test)
-"
+
 ```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayebaishmo&show_icons=true&theme=radical)
