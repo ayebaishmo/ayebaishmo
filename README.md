@@ -26,8 +26,8 @@ print("Mean Squared Error:", mse)
 
 ```
 [![GitHub followers](https://img.shields.io/github/followers/?label=Followers&style=social)](https://github.com/ayebaishmo)
-[![GitHub stars](https://img.shields.io/github/stars/your_username/your_repo?style=social)](https://github.com/ayebaishmo/your_repo)
-[![GitHub forks](https://img.shields.io/github/forks/your_username/your_repo?style=social)](https://github.com/ayebaishmo/your_repo)
+[![GitHub stars](https://img.shields.io/github/stars/your_username/your_repo?style=social)](https://github.com/ayebaishmo/ayebaishmo)
+[![GitHub forks](https://img.shields.io/github/forks/your_username/your_repo?style=social)](https://github.com/ayebaishmo/ayebaishmo)
 
 
 
