@@ -25,7 +25,24 @@ print("Mean Squared Error:", mse)
 
 
 ```
+import requests
 
-![Ishmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayebaishmo&show_icons=true&theme=radical)
+def print_github_stats(ayebaishmo):
+    url = f'https://api.github.com/users/{ayebaishmo}'
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        data = response.json()
+        print(f"GitHub Stats for {username}:")
+        print(f"Public Repositories: {data['public_repos']}")
+        print(f"Followers: {data['followers']}")
+        print(f"Following: {data['following']}")
+        print(f"Bio: {data['bio']}")
+    else:
+        print(f"Failed to fetch GitHub stats. Status code: {response.status_code}")
+
+# Replace 'your_username' with your actual GitHub username
+print_github_stats('ayebaishmo')
+
 
 
