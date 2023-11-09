@@ -26,6 +26,6 @@ print("Mean Squared Error:", mse)
 
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayebaishmo&show_icons=true&theme=radical)
+![Ishmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayebaishmo&show_icons=true&theme=radical)
 
 
