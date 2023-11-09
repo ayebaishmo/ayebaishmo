@@ -25,24 +25,10 @@ print("Mean Squared Error:", mse)
 
 
 ```
-import requests
+[![GitHub followers](https://img.shields.io/github/followers/?label=Followers&style=social)](https://github.com/ayebaishmo)
+[![GitHub stars](https://img.shields.io/github/stars/your_username/your_repo?style=social)](https://github.com/ayebaishmo/your_repo)
+[![GitHub forks](https://img.shields.io/github/forks/your_username/your_repo?style=social)](https://github.com/ayebaishmo/your_repo)
 
-def print_github_stats(ayebaishmo):
-    url = f'https://api.github.com/users/{ayebaishmo}'
-    response = requests.get(url)
-    
-    if response.status_code == 200:
-        data = response.json()
-        print(f"GitHub Stats for {username}:")
-        print(f"Public Repositories: {data['public_repos']}")
-        print(f"Followers: {data['followers']}")
-        print(f"Following: {data['following']}")
-        print(f"Bio: {data['bio']}")
-    else:
-        print(f"Failed to fetch GitHub stats. Status code: {response.status_code}")
-
-# Replace 'your_username' with your actual GitHub username
-print_github_stats('ayebaishmo')
 
 
 
