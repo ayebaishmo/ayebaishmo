@@ -1,7 +1,8 @@
 # Hello am Ayebazibwe Ishmael @ayebaishmo 
 ## A data scientist 
-## Am currently exploring machine learning
+## Machine learning engineer in the making.
 [![Twitter Badge](https://img.shields.io/badge/-@ayebaishmo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ishmo256)](https://twitter.com/ishmo256)
+[![Linkedin Badge](https://img.shields.io/badge/-@ayebaishmo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ayebazibwe-ishmael-a2b07a168/)](https://www.linkedin.com/in/ayebazibwe-ishmael-a2b07a168/)
 
 ```python
 import pandas as pd
