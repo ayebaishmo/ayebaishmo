@@ -1,4 +1,6 @@
-# Hello am Ayebazibwe Ishmael @ayebaishmo
+# Hello am Ayebazibwe Ishmael @ayebaishmo 
+## A data scientist 
+## Am currently exploring mahine learning
 [![Twitter Badge](https://img.shields.io/badge/-@ayebaishmo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ishmo256)](https://twitter.com/ishmo256)
 
 ```python
