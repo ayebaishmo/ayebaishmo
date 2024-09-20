@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Couple of learning projects](https://github.com/ayebaishmo/Predict-Chicago-Food-Inspections-)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ayebaishmo/Portfolio](https://github.com/ayebaishmo/Portfolio)
+- 👨‍💻 All of my projects are available.
 
 - 💬 Ask me about **Data science Machine learning and Data analysis**
 
