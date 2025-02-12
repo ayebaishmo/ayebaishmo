@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ishmo255super@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1YPinMEFU26thZppe02Wdw6kU3Ckd7H4SQnhN7Euol3M/edit?usp=sharing](https://docs.google.com/document/d/1YPinMEFU26thZppe02Wdw6kU3Ckd7H4SQnhN7Euol3M/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1YPinMEFU26thZppe02Wdw6kU3Ckd7H4SQnhN7Euol3M/edit?usp=sharing](https://docs.google.com/document/d/1OnJ2ehW6kU5I8recqeolMCxi5I3sRc24jXUHtszBHuw/edit?usp=sharing)
 
 - ⚡ Fact **God is amazing**
 
