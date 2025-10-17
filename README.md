@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayebazibwe Ishmael</h1>
 <h3 align="center">Am passionate about Data sceince. As well as a  machine engineer in the making</h3>
 
-- 🔭 I’m currently working on [Couple of learning projects](https://github.com/ayebaishmo/Predict-Chicago-Food-Inspections-)
+- 🔭 I’m currently working on [Couple of learning projects](https://ayebaishmo.github.io/Ishmael-sProfile/)
 
 - 👨‍💻 All of my projects are available.
 
