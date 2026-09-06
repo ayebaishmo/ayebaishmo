@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available.
 
-- 💬 Ask me about **Data science Machine learning and Data analysis**
+- 💬 Ask me about **AI software development Data science Machine learning and Data analysis**
 
 - 📫 How to reach me **ishmo255super@gmail.com**
 
